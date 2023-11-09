@@ -7,7 +7,7 @@
 </script>
 
 <header class="h-screen bg-[url('skytrak1.jpg')] bg-cover bg-center">
-	<div class="bg-surface-500/[0.5] h-full">
+	<div class="bg-surface-600/[0.7] h-full">
 		<div class="flex flex-col justify-between h-full p-3">
 			<div class="flex flex-row">
 				<p class="text-white underline text-3xl font-bold">450-922-2206</p>
@@ -27,7 +27,7 @@
 				<p class="text-white text-center text-2xl font-bold mb-3">Nous réparons</p>
 				<div class="grid grid-cols-8 divide-x w-2/3 mx-auto">
 					<div class="flex justify-center items center">
-						<img class="w-28 h-12" src="skyjack-logo.svg" alt="Skyjack Logo" />
+						<img class="w-28 h-12" src="skyjack-logo.png" alt="Skyjack Logo" />
 					</div>
 					<div class="flex justify-center items center">
 						<img class="w-28 h-12" src="genie-logo.png" alt="Genie Logo" />
