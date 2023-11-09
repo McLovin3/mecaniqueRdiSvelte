@@ -18,13 +18,10 @@
 			</div>
 			<div class="flex flex-col">
 				<img class="max-w-lg m-auto" alt="RDI Logo" src="logo.png" />
-				<h1 class="text-4xl font-bold text-center text-white">
-					<span class="rdi-blue">R</span>éparation | <span class="rdi-blue">D</span>iagnostique |
-					<span class="rdi-blue">I</span>nspection
-				</h1>
+				<h1 class="text-4xl text-center text-white">Réparation | Diagnostique | Inspection</h1>
 			</div>
 			<div>
-				<p class="text-white text-center text-2xl font-bold mb-3">Nous réparons</p>
+				<p class="text-white text-center text-2xl mb-3">Nous réparons</p>
 				<div class="grid grid-cols-8 divide-x w-2/3 mx-auto">
 					<div class="flex justify-center items center">
 						<img class="w-28 h-12" src="skyjack-logo.png" alt="Skyjack Logo" />
