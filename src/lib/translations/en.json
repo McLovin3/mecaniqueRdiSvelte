@@ -4,5 +4,20 @@
 	"landingPage": {
 		"moto": "Reperation | Diagnostic | Inspection",
 		"weRepare": "We repare"
+	},
+	"secondPage": {
+		"services": "Services"
+	},
+	"contactUs": {
+		"contactUs": "Contact us",
+		"firstName": "First name",
+		"lastName": "Last name",
+		"email": "Email",
+		"subject": "Subject",
+		"phone": "Phone",
+		"linkedIn": "LinkedIn",
+		"address": "Address",
+		"submit": "Submit",
+		"messageSent": "Message sent"
 	}
 }
