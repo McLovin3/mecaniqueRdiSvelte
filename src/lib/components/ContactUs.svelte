@@ -25,7 +25,10 @@
 <section class="h-screen">
 	<div class="flex flex-col justify-between h-full p-3">
 		<div />
-		<div class="w-2/3 mx-auto bg-surface-600 px-10 rounded-3xl py-7" style="height: 55%;">
+		<div
+			class="w-2/3 mx-auto bg-surface-600 px-10 rounded-3xl justify-around flex flex-col py-7"
+			style="height: 60%;"
+		>
 			<h2 class="text-6xl text-white text-center">{$_("contactUs.contactUs")}</h2>
 			<form on:submit|preventDefault={onSubmit}>
 				{#if formSubmitted}
